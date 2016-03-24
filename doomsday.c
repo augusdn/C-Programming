@@ -181,7 +181,7 @@ int isLeapYear (int year) {
 int doomsDayCheck (int year){
    int tmpYear;
    int a, b, c, d;
-   int anchor;
+   int anchor = 0;
    int doomsDay;
    
    tmpYear = year % 100;
