@@ -5,7 +5,7 @@
  *  (only for dates after the start of the Gregorian calendar).
  *
  *  Program stub created by Richard Buckland on 17/03/14
- *  This program by Hyun Woo Lee
+ *  This program by Augusdn
  *  Freely licensed under Creative Commons CC-BY-3.0
  *
  *
