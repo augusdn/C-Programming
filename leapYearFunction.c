@@ -1,4 +1,4 @@
-//Name: Augustine Lee
+//Name: Augusdn
 //Date: 31 March 2015
 //Program that test for leap year with leapYearFunction
 
